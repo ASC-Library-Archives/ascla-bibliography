@@ -6,7 +6,7 @@ This repository contains the updated and citable version of the bibliography, as
 
 The bibliography's DOI is [10.5281/zenodo.3464134](https://doi.org/10.5281/zenodo.3464134). 
 
-A searchable 
+A searchable [version of the bibliography](https://ascla.asc.upenn.edu/communications-scholars-history-project/bibliography/) is available on the [ASCLA site](https://ascla.asc.upenn.edu/communications-scholars-history-project/bibliography/).
 
 ## About ASCLA
 
