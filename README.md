@@ -1,6 +1,6 @@
 # About the History of Communication Research Bibliography
 
-The [History of Communication Research Bibliography](https://ascla.asc.upenn.edu/communications-scholars-history-project/bibliography/) contains over 2300 articles, chapters, and books on the history of media and communication research, published in English.
+The [History of Communication Research Bibliography](https://ascla.asc.upenn.edu/communications-scholars-history-project/bibliography/) contains over 2,500 articles, chapters, and books on the history of media and communication research, published in English.
 
 This repository contains the updated and citable version of the bibliography, as a [BibTeX file](/bibliography.bib).
 
