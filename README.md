@@ -8,7 +8,7 @@ The bibliography's DOI is [10.5281/zenodo.4127038](https://doi.org/10.5281/zenod
 
 ## About ASCLA
 
-The [Annenberg School for Communication Library Archives](https://ascla.asc.upenn.edu/mission-history-policies/) (ASCLA), at the University of Pennsylvania, collects, describes, preserves, exhibits, and makes available to the University community, and scholarly publics more generally, materials pertinent to the interdisciplinary field of communication and its history.
+The [Annenberg School for Communication Library Archives](https://www.asc.upenn.edu/research/centers/annenberg-school-for-communication-library-archives) (ASCLA), at the University of Pennsylvania, collects, describes, preserves, exhibits, and makes available to the University community, and scholarly publics more generally, materials pertinent to the interdisciplinary field of communication and its history.
 
 ## License
 
